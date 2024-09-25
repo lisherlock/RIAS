@@ -1,6 +1,6 @@
 # Radiomics Intelligent Analysis Software（RIAS）
 
-**RIAS医学影像人工智能平台**集成了医学影像研究中最为前沿和热点的人工智能算法，包括影像组学、深度学习分割及深度学习分类模型等。该平台无需编程，仅通过研究者简单的点选及设置即可完成相关研究的AI模型构建。 
+**RIAS医学影像人工智能平台**集成了医学影像研究中最为前沿和热点的人工智能算法，包括影像组学、深度学习分割及深度学习分类模型等。该平台无需编程，仅通过研究者简单的点选及设置即可完成相关研究的AI模型构建。
 **RIAS的第一版开发原型及应用文献：**
 Mingyang Li, Xueyan Li, Yu Guo, Zheng Miao, Xiaoming Liu, Shuxu Guo, Huimao Zhang*. Development and assessment of an individualized nomogram to predict colorectal cancer liver metastases[J]. Quantitative Imaging in Medicine and Surgery, 2020, 10(2): 397-414. 
 
