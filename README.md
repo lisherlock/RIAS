@@ -5,7 +5,7 @@
 Mingyang Li, Xueyan Li, Yu Guo, Zheng Miao, Xiaoming Liu, Shuxu Guo, Huimao Zhang*. Development and assessment of an individualized nomogram to predict colorectal cancer liver metastases[J]. Quantitative Imaging in Medicine and Surgery, 2020, 10(2): 397-414. 
 
 截至2024年9月，RIAS平台已完成第三版本开发，主要用于解决影像组学、机器学习建模、深度学习建模等。  
-其中第三版本宣传视频链接如下：https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0
+**其中第三版本宣传视频链接如下：** https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0
 
 ---
 
@@ -18,4 +18,4 @@ Mingyang Li, Xueyan Li, Yu Guo, Zheng Miao, Xiaoming Liu, Shuxu Guo, Huimao Zhan
 
 As of September 2024, the RIAS platform has completed the development of its third version, primarily used for addressing radiomics, machine learning modeling, deep learning modeling, and more.
 
-The promotional video link for the third version is as follows: [https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0)
+**The promotional video link for the third version is as follows:** [https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0)
