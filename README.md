@@ -7,7 +7,7 @@ RIAS的第一版开发原型及应用文献：Mingyang Li, Xueyan Li, Yu Guo, Zh
 截至2024年9月，RIAS平台已完成第三版本开发，主要用于解决影像组学、机器学习建模、深度学习建模等。
 其中第三版本宣传视频链接如下：https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0
 
-======================================================================================================================
+
 The RIAS Medical Imaging Artificial Intelligence Platform integrates the most cutting-edge and popular AI algorithms in medical imaging research, including radiomics, deep learning segmentation, and deep learning classification models. This platform requires no programming; researchers can complete the construction of AI models relevant to their studies simply through straightforward point-and-click operations and settings.
 
 The first version's development prototype and application of RIAS are documented in the following publication:
