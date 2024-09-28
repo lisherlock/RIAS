@@ -19,4 +19,5 @@ Mingyang Li, Xueyan Li, Yu Guo, Zheng Miao, Xiaoming Liu, Shuxu Guo, Huimao Zhan
 
 As of September 2024, the RIAS platform has completed the development of its third version, primarily used for addressing radiomics, machine learning modeling, deep learning modeling, and more.
 
-**The promotional video link for the third version is as follows:** [https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0)
+**The promotional video link for the third version is as follows:** [https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0) 
+**The link to the RIAS Medical Imaging Preprocessing Tool is as follows:** https://github.com/lisherlock/RMIT
