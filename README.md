@@ -6,6 +6,7 @@ Mingyang Li, Xueyan Li, Yu Guo, Zheng Miao, Xiaoming Liu, Shuxu Guo, Huimao Zhan
 
 截至2024年9月，RIAS平台已完成第三版本开发，主要用于解决影像组学、机器学习建模、深度学习建模等。  
 **其中第三版本宣传视频链接如下：** https://www.bilibili.com/video/BV1Gd4y1K7jY/?spm_id_from=333.999.0.0
+**RIAS医学影像预处理工具链接如下：** https://github.com/lisherlock/RMIT
 
 ---
 
